@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5eb4061-f591-46de-bdcc-dfa4341f764f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailBO.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailBO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailLoginBO.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailLoginBO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/pages/GmailLoginPage.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/pages/GmailLoginPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/control/LocatingCustomElementListHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/control/LocatingCustomElementListHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/control/Table.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/control/Table.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java" />
-    </list>
+    <list default="true" id="d5eb4061-f591-46de-bdcc-dfa4341f764f" name="Default" comment="" />
     <ignored path="SeleniumTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/tests/SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.22580644">
               <caret line="20" column="111" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="111" />
               <folding />
             </state>
@@ -76,10 +68,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GmailBO.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GmailBO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailBO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7741935">
+            <state vertical-scroll-proportion="0.0">
               <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,18 +117,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomFieldDecorator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/control/CustomFieldDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1321,12 +1311,12 @@
       <workItem from="1502355938544" duration="2445000" />
       <workItem from="1502365978582" duration="4180000" />
       <workItem from="1502377988995" duration="5014000" />
-      <workItem from="1502399389590" duration="1343000" />
+      <workItem from="1502399389590" duration="1568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293400000" />
+    <option name="totallyTimeSpent" value="293625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1621,14 +1611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09677419">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1786,14 +1768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/tests/SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="111" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="111" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailLoginBO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1832,11 +1806,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailBO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7741935">
+        <state vertical-scroll-proportion="0.0">
           <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/tests/SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22580644">
+          <caret line="20" column="111" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="111" />
+          <folding />
         </state>
       </provider>
     </entry>
