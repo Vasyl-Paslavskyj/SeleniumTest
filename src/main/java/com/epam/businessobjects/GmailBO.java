@@ -32,10 +32,8 @@ public class GmailBO{
     public boolean selectMessage(MessageModel messageModel){
         boolean isMessageSelected = false;
         Table table = gmailPage.getTable();
-        System.out.println("TABLE !!!!!!!!!!!");
 
         WebElement element = table.getCellEditor(messageModel.getFrom(), messageModel.getSubject(), messageModel.getDate());
-        System.out.println("WebElement !!!!!!!!!!!");
         if(!element.findElement(By.cssSelector("div.T-Jo-auh")).isSelected()){
             element.findElement(By.cssSelector("div.T-Jo-auh")).click();
             isMessageSelected = true;

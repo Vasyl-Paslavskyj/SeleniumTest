@@ -32,17 +32,15 @@ public class GmailLoginPage extends PageObject{
 
     public GmailLoginPage typeLoginAndSubmit(String login){
         loginInput.sendKeys(login);
-       new WebDriverWait(WebDriverUtils.getDriver(), 30).until(ExpectedConditions.elementToBeClickable(nextButtonLogin.webElement));
-
+        new WebDriverWait(WebDriverUtils.getDriver(), 30).until(ExpectedConditions.elementToBeClickable(nextButtonLogin.webElement));
         nextButtonLogin.click();
         return this;
     }
 
     public GmailPage typePasswordAndSubmit(String password){
         passwordInput.sendKeys(password);
-            new WebDriverWait(WebDriverUtils.getDriver(), 30).until(ExpectedConditions.elementToBeClickable(nextButtonPassword.webElement));
-     new Actions(WebDriverUtils.getDriver()).moveToElement(nextButtonPassword.webElement).click().build().perform();
-       // nextButtonPassword.click();
+        new WebDriverWait(WebDriverUtils.getDriver(), 30).until(ExpectedConditions.elementToBeClickable(nextButtonPassword.webElement));
+        new Actions(WebDriverUtils.getDriver()).moveToElement(nextButtonPassword.webElement).click().build().perform();
         return new GmailPage();
     }
 }
