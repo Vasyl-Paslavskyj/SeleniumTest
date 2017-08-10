@@ -30,8 +30,8 @@ public class WebDriverUtils {
             return driver;
         }
     };
+
     public static WebDriver getDriver() {
         return threadLocalScope.get();
     }
-
 }

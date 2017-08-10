@@ -4,8 +4,6 @@ import com.epam.models.MessageModel;
 import com.epam.models.Messages;
 import com.epam.models.UserModel;
 import com.epam.models.Users;
-
-import com.opencsv.CSVReader;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
@@ -14,11 +12,6 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.testng.annotations.DataProvider;
-
-
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Unmarshaller;
 import java.io.*;
 import java.nio.charset.Charset;
 import java.util.ArrayList;

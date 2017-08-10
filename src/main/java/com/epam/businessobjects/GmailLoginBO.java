@@ -3,8 +3,6 @@ package com.epam.businessobjects;
 import com.epam.models.UserModel;
 import com.epam.pages.GmailLoginPage;
 import com.epam.pages.GmailPage;
-import org.apache.log4j.Logger;
-
 import java.io.IOException;
 
 public class GmailLoginBO{
