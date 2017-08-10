@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5eb4061-f591-46de-bdcc-dfa4341f764f" name="Default" comment="">
-      <change type="DELETED" beforePath="F:\Progects_EPAM_IDEA_2017\SeleniumTest\target\test-classes\com\epam\utils\ReportAppender.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/AbstractElement.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/AbstractElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/Button.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/Button.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/Checkbox.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/Checkbox.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/CustomFieldDecorator.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/CustomFieldDecorator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/epam/listener/CustomListener.class" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/listener/CustomListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/dataUtils/DataHelps.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/dataUtils/DataHelps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/epam/tests/EnterEmailAndWrongPasswordTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/tests/EnterEmailAndWrongPasswordTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/businessobjects/GmailBO.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/businessobjects/GmailBO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/businessobjects/GmailLoginBO.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/businessobjects/GmailLoginBO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/pages/GmailLoginPage.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/pages/GmailLoginPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/pages/GmailPage.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/pages/GmailPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/LocatingCustomElementListHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/LocatingCustomElementListHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/models/MessageModel.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/models/MessageModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/models/Messages.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/models/Messages.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/pages/PageObject.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/pages/PageObject.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/dataUtils/ProjectData.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/dataUtils/ProjectData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/dataUtils/PropertyData.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/dataUtils/PropertyData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/epam/tests/SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/tests/SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/Span.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/Span.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/Table.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/Table.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/TextInput.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/TextInput.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/models/UserModel.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/models/UserModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/models/Users.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/models/Users.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/webdriverutils/WebDriverUtils$1.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/webdriverutils/WebDriverUtils$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/webdriverutils/WebDriverUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/webdriverutils/WebDriverUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/epam/control/WrapperFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/epam/control/WrapperFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailLoginBO.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/businessobjects/GmailLoginBO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/pages/GmailLoginPage.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/pages/GmailLoginPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/html/output.html" afterPath="$PROJECT_DIR$/target/surefire-reports/html/output.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/html/overview.html" afterPath="$PROJECT_DIR$/target/surefire-reports/html/overview.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test1_results.html" afterPath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test1_results.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/html/suites.html" afterPath="$PROJECT_DIR$/target/surefire-reports/html/suites.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="F:\Progects_EPAM_IDEA_2017\SeleniumTest\src\test\java\com\epam\utils\ReportAppender.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/utils/ReportAppender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java" />
     </list>
     <ignored path="SeleniumTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,21 +31,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProjectData.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ProjectData.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.0471977">
+              <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/tests/SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.18584071">
+            <state vertical-scroll-proportion="0.0">
               <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebDriverUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,15 +93,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Checkbox.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/control/Checkbox.java">
+      <file leaf-file-name="GmailPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/pages/GmailPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -201,7 +170,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/businessobject/GmailLoginBO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/control/AbstractElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/businessobject/GmailBO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/control/Div.java" />
         <option value="$PROJECT_DIR$/users.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/messages.xml" />
@@ -229,7 +197,6 @@
         <option value="$PROJECT_DIR$/test-output/html/index.html" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/dataUtils/PropertyData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java" />
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/tests/EnterEmailAndWrongPasswordTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -237,6 +204,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/pages/GmailLoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/ReportAppender.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java" />
       </list>
     </option>
   </component>
@@ -493,6 +462,66 @@
               <option name="myItemId" value="epam" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdriverutils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SeleniumTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SeleniumTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SeleniumTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SeleniumTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -521,6 +550,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SeleniumTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SeleniumTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataUtils" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1209,12 +1268,12 @@
       <workItem from="1502349408563" duration="3070000" />
       <workItem from="1502355938544" duration="2445000" />
       <workItem from="1502365978582" duration="4180000" />
-      <workItem from="1502377988995" duration="3067000" />
+      <workItem from="1502377988995" duration="3743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290110000" />
+    <option name="totallyTimeSpent" value="290786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1528,22 +1587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/pages/GmailPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/models/MessageModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1595,14 +1638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/control/Checkbox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1635,16 +1670,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="100" column="86" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="86" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/pages/GmailLoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1685,8 +1710,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/tests/SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.18584071">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/webdriverutils/WebDriverUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/pages/GmailPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/pages/GmailLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/dataUtils/ProjectData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0471977">
+          <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
           <folding />
         </state>
       </provider>

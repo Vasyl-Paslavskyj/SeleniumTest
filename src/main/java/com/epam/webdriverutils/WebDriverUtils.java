@@ -24,7 +24,6 @@ public class WebDriverUtils {
     private static final ThreadLocal<WebDriver> threadLocalScope = new  ThreadLocal<WebDriver>(){
         @Override
         protected WebDriver initialValue() {
-            System.out.println("Thread" +Thread.currentThread().getId());
 
             WebDriver driver = new ChromeDriver();
             driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);

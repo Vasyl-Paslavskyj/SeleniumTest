@@ -106,9 +106,7 @@ public class ProjectData {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        for (MessageModel model : messageList){
-            System.out.println(model.toString());
-        }
+        
         return messageList;
     }
 }
