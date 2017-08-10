@@ -53,6 +53,7 @@ public class SelectThreeMessagesDeleteThemAndThanCancelDeleteTest {
         gmailBO.cancelDeleteMessages();
 
         Assert.assertEquals(gmailBO.verificationThatMessagesWereNotDeleted(), DataHelps.CONFIRMATION_CANCEL_DELETE);
+        
     }
 
     @AfterMethod
