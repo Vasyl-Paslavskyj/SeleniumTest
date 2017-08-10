@@ -1,0 +1,3 @@
+com\epam\listener\CustomListener.class
+com\epam\tests\EnterEmailAndWrongPasswordTest.class
+com\epam\tests\SelectThreeMessagesDeleteThemAndThanCancelDeleteTest.class
