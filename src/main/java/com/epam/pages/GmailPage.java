@@ -57,15 +57,15 @@ public class GmailPage extends PageObject{
     }
 
     public void cancelDeleteMessages(){
-        new WebDriverWait(WebDriverUtils.getDriver(), 30).
+        WebElement dynamicElementCancelDeleteSpan = (new WebDriverWait(WebDriverUtils.getDriver(), 30)).
                 until(ExpectedConditions.presenceOfNestedElementLocatedBy(divWhereAreSpans,
                         By.xpath("//*[@id=\"link_undo\"]")));
-        cancelDeleteSpan.click();
+        dynamicElementCancelDeleteSpan.click();
     }
     public String verificationThatMessagesWereNotDeleted() {
-        new WebDriverWait(WebDriverUtils.getDriver(), 10).
+        WebElement dynamicElementConfirmationCancelDeleteSpan = (new WebDriverWait(WebDriverUtils.getDriver(), 10)).
                 until(ExpectedConditions.presenceOfNestedElementLocatedBy(divWhereAreSpans,
                         By.xpath("//span[@class='bofITb']")));
-        return confirmationCancelDeleteSpan.getText();
+        return dynamicElementConfirmationCancelDeleteSpan.getText();
     }
 }
